@@ -37,6 +37,7 @@ url                    = "/code/"
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
 latestpostscount       = 5                             # how many posts to display on the home page
+showlatestpostsheader  = false                         # show latest posts header or not (default true)
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "Arthur Dent"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
